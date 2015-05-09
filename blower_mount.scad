@@ -2,7 +2,7 @@ fastnerRadius = 2;
 wallThickness = 5;
 peekSpacing = 30;
 blowerSpacing = 35;
-blowerHeight = 10;
+blowerHeight = 3;
 bfRadius = 1.2;
 color("blue") difference() {
     translate([-wallThickness, -wallThickness, 0]) {
